@@ -49,14 +49,6 @@ Selected features are enabled by default. [Style Settings](https://github.com/mg
 
 However, if you prefer to customize your own experience, Baseline provides extensive customization options.
 
-## Philosophy
-
-### Less _and_ more
-
-As software design evolves, Obsidian’s interface is beginning to show its age. Many customizable themes stick too closely to the default look, while more opinionated themes often sacrifice flexibility; or to be blunt, simply don’t look good.
-
-With a clean, modern foundation and endless customization possibilities, Baseline aims to become the starting point, **the baseline for everyone's Obsidian experience**, and for the community going forward.
-
 ## Credits
 
 Special thanks to the community for helping make Baseline a reality. Please support them as well!
