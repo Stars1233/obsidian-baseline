@@ -66,6 +66,7 @@ body.is-phone {
     transition: var(--anim-duration-moderate) var(--anim-motion-baseline);
     padding-right: max(var(--safe-area-inset-right), 24px);
     padding-left: max(var(--safe-area-inset-right), 24px);
+    width: 100%;
   }
 
   // Tab switcher
